@@ -16,8 +16,8 @@ Feel free to join the discussions, and to contribute to any of my repos, please 
 
 [GraphQL Ecosystem](https://youtu.be/VnG7ej56lWw)
 
-[GraphQL Vs REST](https://youtu.be/YFkJGEefgU8)
+[Nodejs and MongoDB GraphQL Server](https://youtu.be/YFkJGEefgU8)
 
-[Nodejs and MongoDB GraphQL Server](https://youtu.be/AYZOHt6kz6Y)
+[GraphQL Vs REST](https://youtu.be/AYZOHt6kz6Y)
 
 PS: Thanks [Ben](https://www.youtube.com/channel/UC-8QAzbLcRglXeN_MY9blyw).
