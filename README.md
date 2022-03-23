@@ -23,7 +23,7 @@ Before we embark on what is at least to me now an extended amount of text and da
 ![front end fetching schema one image](public/images/api/front_fetching_schema1.png)
 ![graphql schema one image](public/images/api/graphql_schema1.png)
 
-##### 2 I'd like for this guide to be as short, readable and correct as possible.
+##### 3 I'd like for this guide to be as short, readable and correct as possible. Please contribute to this guide however you may!
 
 ### Lets embark on Ben's journey through graphQL:
 
