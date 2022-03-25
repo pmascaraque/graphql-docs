@@ -4,7 +4,7 @@
 
 ### Feel free to submit changes directly to the main branch.
 
-We only use branches when co-working, but we do our best to keep main in good shape, with all tests passing to aid with [contiinuous deployment]().
+We only use branches when co-working, but we do our best to keep main in good shape, with all tests passing to aid with [continuous deployment]().
 
 # [Features]()
 
@@ -12,7 +12,7 @@ We only use branches when co-working, but we do our best to keep main in good sh
 
 ### If you don't feel confident to make a PR and document it, either [joining the discussion]() or [correctly asking]() [somebody]() to contribute can be as powerful as contributing itself.
 
-Formatting either a question, an elevator pitch or a client demo, can be quite challenging, but passing the ball perfectly is why at 120 minutes, the [dutch ;)](https://www.youtube.com/watch?v=nmVstWkIpY0&ab_channel=warofchampions) aren't world champions (I love you Holland).
+Formatting either a question, an elevator pitch or a client demo, can be quite challenging, but passing the ball perfectly is why at 120 minutes, the [dutch ;)](https://www.youtube.com/watch?v=nmVstWkIpY0&ab_channel=warofchampions) aren't world champions (I love you Holland). Football comparisons aside, developing is often a team effort, its important to document every step of the way.
 
 ## [Adding Features]()
 
