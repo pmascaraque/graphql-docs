@@ -1,1 +1,0 @@
-GraphQL Typescript Server

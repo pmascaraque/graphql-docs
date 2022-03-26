@@ -1,2 +1,0 @@
-Apollo Mongo GraphQL Server
- 
