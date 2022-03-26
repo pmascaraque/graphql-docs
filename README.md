@@ -12,7 +12,7 @@ Before we embark on what is at least to me now an extended amount of text and da
 
 #### TLDR: I'm open to discussion with your opinion on my code and stack choice and yours.
 
-#### I use node, react, typescript, graphql and next/vercel.
+#### I use apollo, graphql, mongodb, react and next.
 
 ##### 1 I need to create, store and fetch API values in my project.
 
