@@ -25,6 +25,11 @@ Before we embark on what is at least to me now an extended amount of text and da
 
 ##### 3 I'd like for this guide to be as short, readable and correct as possible. Please contribute to this guide however you may!
 
+In a world of services, microservices, dtos, endpoints, servers and APIs, the curiosity has overwhelmed me to set up a fully functioning API based app following documentation and troubleshooting with my friends. 
+
+Please follow me in this journey as I document my migraines with PR's, and join the ![discussion]() for each individual repo and feel free to ![contribute]() 
+
+I'll be using Ben awads videos and the techs main docs as tools, perhaps adapting to the time that has passed, such as Prisma v2 coming out or Vercel's overwhelming success and simplicity.
 ### Lets embark on Ben's journey through graphQL:
 
 [mongogql](mongoql/README.md)

@@ -1,1 +1,2 @@
-Mongo GraphQL Server
+Apollo Mongo GraphQL Server
+ 
