@@ -1,5 +1,0 @@
-{
-  "dependencies": {
-    "apollo-server-express": "^3.6.6"
-  }
-}
