@@ -1,4 +1,4 @@
-import { ApolloServer } from "apollo-server-express";
+import { ApolloServer, gql } from "apollo-server-express";
 import express from "express";
 import mongoose from "mongoose";
 import { resolvers } from "./resolvers";
@@ -14,7 +14,7 @@ const startServer = async () => {
 
   server.applyMiddleware({ app }); 
 
-  await mongoose.connect("mongodb://localhost:27017/testd", {
+  await mongoose.connect("mongodb://localhost:27017/tes td", {
     useNewUrlParser: true
   });
 
