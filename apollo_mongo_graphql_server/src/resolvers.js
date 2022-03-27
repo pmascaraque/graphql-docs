@@ -1,16 +1,16 @@
-import { Cat } from "./models/Cat";
+import { DTO } from "./models/DTO";
 
 export const resolvers = {
   Query: {
-    hello: () => "hii",
-    cats: () => Cat.find()
+    input: () => "Pablo",
+    name: () => DTO.find()
   },
   Mutation: {
     createCat: async (_, { name }) => {
-      const kitty = new Cat({ name });
-      await kitty.save();
-      console.log(kitty);
-      return kitty;
+      const names = new DTO({ name });
+      await names.save();
+      console.log(names);
+      return names;
     }
   }
 };
