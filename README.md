@@ -12,7 +12,7 @@ Before we embark on what is at least to me now an extended amount of text and da
 
 #### TLDR: I'm open to discussion with your opinion on my code and stack choice and yours.
 
-#### I use node, react, typescript, graphql and next/vercel.
+#### I use apollo, graphql, mongodb, react and next.
 
 ##### 1 I need to create, store and fetch API values in my project.
 
@@ -32,9 +32,10 @@ Please follow me in this journey as I document my migraines with PR's, and join 
 I'll be using Ben awads videos and the techs main docs as tools, perhaps adapting to the time that has passed, such as Prisma v2 coming out or Vercel's overwhelming success and simplicity.
 ### Lets embark on Ben's journey through graphQL:
 
-[mongogql](mongoql/README.md)
-[apolloqlexpress](apolloqlexpress/README.md)
 
+[apollo_mongo_graphql_server/README.md](apollo_mongo_graphql_server/README.md)
+
+#### YT
 
 [Playlist](https://www.youtube.com/playlist?list=PLN3n1USn4xlkDk8vPVtgyGG3_1eXYPrW-)
 
