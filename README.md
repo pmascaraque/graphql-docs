@@ -27,9 +27,9 @@ Before we embark on what is at least to me now an extended amount of text and da
 
 In a world of services, microservices, dtos, endpoints, servers and APIs, the curiosity has overwhelmed me to set up a fully functioning API based app following documentation and troubleshooting with my friends. 
 
-Please follow me in this journey as I document my migraines with PR's, and join the ![discussion](https://github.com/pmascaraque/graphql-docs/discussions) for each individual repo and feel free to ![contribute](https://github.com/pmascaraque/graphql-docs/blob/main/CONTRIBUTING.md) 
+Please follow me in this journey as I document my migraines with PR's, and join the [discussion](https://github.com/pmascaraque/graphql-docs/discussions) for each individual repo and feel free to [contribute](https://github.com/pmascaraque/graphql-docs/blob/main/CONTRIBUTING.md) 
 
-I'll be using Ben awads videos and the techs main docs as tools, perhaps adapting to the time that has passed, such as Prisma v2 coming out or ![Vercels edge network](https://vercel.com/docs/concepts/edge-network/overview) overwhelming success and simplicity.
+I'll be using Ben awads videos and the techs main docs as tools, perhaps adapting to the time that has passed, such as Prisma v2 coming out or [Vercels edge network](https://vercel.com/docs/concepts/edge-network/overview) overwhelming success and simplicity.
 ### Lets embark on Ben's journey through graphQL:
 
 
