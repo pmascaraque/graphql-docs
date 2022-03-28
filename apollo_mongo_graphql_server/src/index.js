@@ -9,14 +9,14 @@ const startServer = async () => {
 
   const server = new ApolloServer({
     typeDefs,
-    resolvers
+    resolvers,
   });
 
-  server.applyMiddleware({ app }); 
+  server.applyMiddleware({ app });
 
-  await mongoose.connect("mongodb://localhost:27017/tes td", {
-    useNewUrlParser: true
-  });
+  await mongoose.connect("mongodb://localhost:27017/test", {
+    useNewUrlParser: true,
+  })
 
   app.listen({ port: 4000 }, () =>
     console.log(`🚀 Server ready at http://localhost:4000${server.graphqlPath}`)

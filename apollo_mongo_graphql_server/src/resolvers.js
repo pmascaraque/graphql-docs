@@ -6,7 +6,7 @@ export const resolvers = {
     name: () => DTO.find()
   },
   Mutation: {
-    createCat: async (_, { name }) => {
+    createUser: async (_, { name }) => {
       const names = new DTO({ name });
       await names.save();
       console.log(names);
