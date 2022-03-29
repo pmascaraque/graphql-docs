@@ -1,6 +1,6 @@
 import * as express from "express"
-import * as bodyParser from "body-parser"
 import { Request, Response } from "express"
+import * as bodyParser from "body-parser"
 import { AppDataSource } from "./data-source"
 import { Routes } from "./routes"
 import { User } from "./entity/User"
@@ -40,7 +40,7 @@ AppDataSource.initialize().then(async () => {
     )
 
     await AppDataSource.manager.save(
-        dataSource.manager.create(User, {
+        AppDataSource.manager.create(User, {
             firstName: "Phantom",
             lastName: "Assassin",
             age: 24
