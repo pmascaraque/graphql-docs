@@ -2,7 +2,7 @@
 
 ## Previous Requirements
 
--Understandings of CSS, JS and a modern JS framework such as React.
+-Basic JS && APIs.
 
 -Core principals of deployment, APIs, and general web-development tools and practices.
 
